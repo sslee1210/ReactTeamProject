@@ -89,7 +89,7 @@
 
 ## 8. UI/UX 디자인: 사용자 인터페이스 및 디자인 적용
     
-![싱싱고UI](https://github.com/sslee1210/singsinggo/assets/142865231/2c08196a-c7b3-4e16-8d6a-fa48786f3259)
+![싱싱고전체페이지](https://github.com/sslee1210/ReactTeamProject/assets/142865231/72b73e4c-d828-49dd-a6e2-85033663b52b)
 
 ---
     
