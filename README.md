@@ -77,8 +77,8 @@
 
 ### 디자인 소개
 
-<img width="1000" height="auto" alt="싱싱고 디자인가이드" src="https://github.com/sslee1210/ReactTeamProject/assets/142865231/e723329b-e1d7-4bef-bd76-682217438e23">
-<img width="1000" height="auto" alt="싱싱고 디자인가이드2" src="https://github.com/sslee1210/ReactTeamProject/assets/142865231/3489ba32-e908-4431-9006-124c8993025a">
+<img width="1000" height="auto" alt="싱싱고 디자인가이드" src="https://github.com/sslee1210/ReactTeamProject/assets/142865231/adadb337-b8d0-43f2-a0a1-c464913d2ee3">
+<img width="1000" height="auto" alt="싱싱고 디자인가이드2" src="https://github.com/sslee1210/ReactTeamProject/assets/142865231/95bff928-6b3a-443d-832a-341c9e72ec53">
 
 ---
     
