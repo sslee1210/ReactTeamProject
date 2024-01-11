@@ -45,19 +45,19 @@
    
 ## 3. 사용자 시나리오 & 워크플로우 & 유스케이스 작성: 사용자의 행동 패턴 및 앱 사용 흐름 도출
    
-   ![싱싱고_워크플로우](https://github.com/sslee1210/singsinggo/assets/142865231/1a18a70f-b0d1-49e5-8f87-bd4ae4124b71)
+   ![싱싱고_워크플로우](https://github.com/sslee1210/ReactTeamProject/assets/142865231/702750a7-dcfc-498f-ae54-83807dc93940)
    
 ---
   
 ## 4. 요구 사항 분석 : 필요한 기능 및 규격 분석
    
-   ![싱싱고_요구사항](https://github.com/sslee1210/singsinggo/assets/142865231/507c5d21-fc10-4bf6-a54a-4226d10baac9)
+   ![싱싱고_요구사항](https://github.com/sslee1210/ReactTeamProject/assets/142865231/2a9cec97-2921-4aac-98d9-98f0c8fcb370)
    
 ---
    
 ## 5. 디렉토리 구조 분석 : 프로젝트 구조
     
-   ![싱싱고_디렉토리구조](https://github.com/sslee1210/singsinggo/assets/142865231/80138372-0c3f-4966-83d7-cae99d345f5c)
+   ![싱싱고_디렉토리구조](https://github.com/sslee1210/ReactTeamProject/assets/142865231/0ab31b02-7c2b-4291-aaef-63aabd620e69)
    
 ---
   
